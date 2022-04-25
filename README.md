@@ -19,45 +19,14 @@ Just by copy-pasting its content on your machine's HOSTS file enables the blocki
 3. Add a new line and copy-paste the entire content of HOSTS.txt
 4. Save
 5. Reboot
-### Using Cygwin
-1. Open HOSTS.txt and add a newline to the beginning
-1. Save and close HOSTS.txt
-1. Right mouse click on Cygwin icon then click on 'Run as adminstrator`
-2. `cd` to where HOSTS.txt lives
-3. Run this command in Cygwin: `cat HOSTS.txt >> /cygdrive/c/Windows/System32/drivers/etc/hosts`
-4. Reboot
-
-The steps in Cygwin should be similar on in any POSIX compatible system running on Windows.
 
 ## HOSTS in Linux
 1. Open the terminal
 2. `sudo cp /etc/hosts /etc/hosts.bak`
 3. `sudo curl https://raw.githubusercontent.com/levimake/Anti-Porn-HOSTS-File/master/HOSTS.txt >> /etc/hosts`
-4. `sudo systemctl restart NetworkManager.service`
-
-## HOSTS in Android (method #1)
-1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
-2. Download "HOSTS.txt" and put it somewhere inside your phone
-3. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
-4. Click on HOSTS EDITOR button
-5. Click on three dots top-right corner
-6. Import HOSTS file you previously downloaded
-7. Go back and START
-
-## HOSTS in Android (method #2)
-1. Install [DNS66](https://github.com/julian-klode/dns66#installing)
-2. Open [DNS66](https://github.com/julian-klode/dns66#installing)
-3. Click on HOSTS button to select the "HOSTS" section of the APP
-4. Click on the + floating button on the lower-right corner
-5. Insert a title of your choice and the following url: https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt
-6. Save the filter you created by clicking the check mark on the top-right corner
-7. Press the refresh button on the top-right corner
-8. Go back to the "START" section of the APP and start it
-9. You should notice a symbol indicating an active VPN on your Android system
 
 ## Make a promise
 Once the mechanism is in place and working, do not disable it.
-
 If you disable it on demand to watch porns then you defeat the very purpose of it, but more than that you betray yourself.
 
 ## Contribute
