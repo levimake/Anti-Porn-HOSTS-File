@@ -1540,6 +1540,7 @@
 0.0.0.0    artisbags.com
 0.0.0.0    artsconsortium.org
 0.0.0.0    artserotica.com
+0.0.0.0    artsporn.com
 0.0.0.0    artworks-blog.tumblr.com
 0.0.0.0    arvetellefsen.no
 0.0.0.0    arvigoshop.com
@@ -8356,6 +8357,7 @@
 0.0.0.0    hitlist.ru
 0.0.0.0    hitmyass.com
 0.0.0.0    hitomi.la
+0.0.0.0    hitprn.com
 0.0.0.0    hits.eluniversal.com.mx
 0.0.0.0    hits.puls.lv
 0.0.0.0    hits.top.lv
@@ -14313,6 +14315,7 @@
 0.0.0.0    pornglee.com
 0.0.0.0    porngo.com
 0.0.0.0    porngo.tube
+0.0.0.0    porngo.xxx
 0.0.0.0    porngonzo.com
 0.0.0.0    porngray.com
 0.0.0.0    porngrey.com
@@ -18842,6 +18845,7 @@
 0.0.0.0    tube.shegods.com
 0.0.0.0    tube.smoder.com
 0.0.0.0    tube.thehun.net
+0.0.0.0    tube.perverzija.com
 0.0.0.0    tube18.sex
 0.0.0.0    tube18.xxx
 0.0.0.0    tube188.com
@@ -28701,6 +28705,7 @@
 0.0.0.0    www.hqboobs.com
 0.0.0.0    www.hqbutt.com
 0.0.0.0    www.hqcollect.me
+0.0.0.0    www.hqcollect.net
 0.0.0.0    www.hqgal.com
 0.0.0.0    www.hqhentai.online
 0.0.0.0    www.hqhugeboobs.com
@@ -34138,6 +34143,7 @@
 0.0.0.0    www.pornhd6k.net
 0.0.0.0    www.pornhdvideos.net
 0.0.0.0    www.pornheed.com
+0.0.0.0    www.pornhits.com
 0.0.0.0    www.pornhodl.com
 0.0.0.0    www.pornhomevideo.net
 0.0.0.0    www.pornhost.com
@@ -34509,6 +34515,13 @@
 0.0.0.0    www.porntubedirect.info
 0.0.0.0    www.porntv.com
 0.0.0.0    www.porntx30.me
+0.0.0.0    www.pornhits.com
+0.0.0.0    www.pornhits.com
+0.0.0.0    www.pornhits.com
+0.0.0.0    www.pornhits.com
+0.0.0.0    www.pornhits.com
+0.0.0.0    www.pornhits.com
+0.0.0.0    www.pornhits.com
 0.0.0.0    www.pornuj.cz
 0.0.0.0    www.pornujzdarma.cz
 0.0.0.0    www.pornurl.pw
